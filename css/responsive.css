@@ -679,6 +679,12 @@ body {
 	.service-right-col .list-item{
 		display: flex;
     	align-items: center;
+	}	
+	.service-right-col .minerals .list-item{
+		display: block !important;
+	}
+	.service-right-col .minerals.list-items p{
+		margin-bottom: 0;
 	}
 	.service-sidebar .pbmit-btn.pbmit-btn-hover-white{
 		padding-left: 34px;

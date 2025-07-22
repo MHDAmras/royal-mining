@@ -1693,7 +1693,7 @@
 }
 .service-details .list-items-left{
 	padding: 20px 40px 10px 0px;
-	margin-top: 50px;
+	margin-top: 10px;
 }
 .service-details .list-items-img{
 	background-image: url(../images/service/service-07b.jpg);
@@ -1734,6 +1734,16 @@ h4.pbmit-title{
 }
 .service-right-col .list-item .list-text{
     padding-left: 10px;
+}
+.service-right-col .minerals.list-items .list-text{
+    color: #0c121d;
+    position: relative;
+}
+.service-right-col .minerals.list-items p{
+    font-size: 18px;
+    line-height: 26px;
+    margin-left: 30px;
+    margin-bottom: 0;
 }
 /** 05 - Project Detail **/ 
 .portfolio-single h2.pbmit-title{
