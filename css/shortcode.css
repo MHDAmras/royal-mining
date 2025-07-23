@@ -654,6 +654,9 @@ body {
 .pbmit-mihbox-hover-active .pbmit-ihbox-btn a {
     color: #fff;
 }
+.pbmit-mihbox-hover-active .pbmit-ihbox-style-11 .pbmit-ihbox-icon svg path {
+    fill: #fff;
+}
 .pbmit-mihbox-hover-active .pbmit-heading-desc {
     color: #d2d2d2;
 }
@@ -4545,6 +4548,10 @@ background-color: var(--pbmit-blackish-color);
     color: #abafb5;
     margin: 0;
 }
+.pbmit-footer-widget-area-bottom-inner p a{
+color: var(--pbmit-global-color);
+}
+
 
 /*----------------------------------------*/
 /*  10 - Title Bar
